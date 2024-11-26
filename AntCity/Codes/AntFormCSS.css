@@ -1,0 +1,15 @@
+#paneParentsFile, #paneChildrenQueueInput, #paneOrderOutput {
+    -fx-background-color: #023c50;
+}
+
+.button {
+    -fx-background-color: skyblue;
+}
+
+.button:hover {
+    -fx-background-color: #4fb3e5;
+}
+
+.button:pressed {
+    -fx-background-color: #02719a;
+}
